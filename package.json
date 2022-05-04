@@ -1,6 +1,6 @@
 {
-  "name": "js-html-util",
-  "version": "1.0.0",
+  "name": "@walk8243/js-html-util",
+  "version": "0.0.0",
   "description": "JavaScriptでHTMLを操作する際のUtility",
   "main": "dist/index.js",
   "scripts": {
