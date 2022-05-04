@@ -1,0 +1,25 @@
+{
+  "name": "js-html-util",
+  "version": "1.0.0",
+  "description": "JavaScriptでHTMLを操作する際のUtility",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx tsc --watch --sourceMap true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walk8243/js-html-util.git"
+  },
+  "keywords": [],
+  "author": "walk8243 <walk8243@gmail.com> (https://www.walk8243.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walk8243/js-html-util/issues"
+  },
+  "homepage": "https://github.com/walk8243/js-html-util#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
